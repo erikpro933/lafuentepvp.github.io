@@ -1,0 +1,18 @@
+/* uppercase */
+.txt-uppercase {
+	text-transform: uppercase !important;
+}
+
+.txt-bold {
+	font-weight: bold !important;
+}
+
+.txt-bold .type-1 {
+	font-weight: 900;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 700;
+    animation: pageShow .3s ease-in-out;
+}
